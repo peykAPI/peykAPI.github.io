@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://peykapi.github.io/peykAPI-land/sitemap.xml
